@@ -111,6 +111,3 @@ cannot be measured directly.
 
 MIT. See [`LICENSE`](LICENSE).
 
-## Citation
-
-TODO: fill in once the paper has a DOI.
