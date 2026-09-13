@@ -1,0 +1,8 @@
+# Versions used to produce the results in the paper (Python 3.10.16).
+# Newer versions will very likely work; these are the ones we tested.
+numpy==2.0.2
+pandas==2.2.3
+lightgbm==4.5.0
+scikit-learn==1.6.0
+matplotlib==3.9.4
+joblib==1.4.2

@@ -1,0 +1,22 @@
+# フォント（本文とサイズを揃える）
+font.size: 10
+axes.labelsize: 10
+xtick.labelsize: 9
+ytick.labelsize: 9
+legend.fontsize: 9
+
+# 図のサイズ（本文の textwidth に合わせる）
+#figure.figsize: 5.5, 3.4
+figure.figsize: 5.645, 3.5
+figure.dpi: 300
+savefig.format: pdf
+savefig.bbox: tight
+
+# 配色（論文全体で固定）
+axes.prop_cycle: cycler('color', ['0072B2', 'D55E00', '009E73', 'CC79A7', 'F0E442'])
+
+# 見た目
+axes.grid: True
+grid.alpha: 0.3
+axes.spines.top: False
+axes.spines.right: False
