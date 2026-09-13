@@ -1,11 +1,5 @@
 # Simulation code for *The Advantage of Label Design in Dropout Prediction*
 
-This repository contains the code for the simulation study (Section 7) of
-
-> Katsuragi, M. and Tanaka, K. *The Advantage of Label Design in Dropout
-> Prediction: Enhancing Performance through Event-Type Separation.*
-> (under review)
-
 The simulation asks two questions that the single-cohort result cannot answer
 on its own:
 
